@@ -1,1 +1,3 @@
-# Intro-to-Git-Scratch-Repository
+# MLH — Intro to Git
+
+If you see this, your Git clone was successful!
