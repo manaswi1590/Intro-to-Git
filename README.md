@@ -1,1 +1,1 @@
-# Intro-To-Git-Scratch-Repository
+# Intro-to-Git-Scratch-Repository
